@@ -1,1 +1,8 @@
 fdk
+face_recognition_models==0.3.0
+face-recognition==1.3.0
+Flask==3.0.3
+numpy==1.26.4
+opencv-python==4.10.0.84
+pillow==10.3.0
+urllib3==2.0.3
